@@ -1,2 +1,2 @@
-# Jogo-da-mem-ria
+# Jogo-da-memoria
 Desafio de projeto DIO - TQI
